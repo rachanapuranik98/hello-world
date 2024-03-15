@@ -4,7 +4,7 @@
     <p>Please fill in this form to create an account.</p>
     <hr>
      
-    <label for="Name"><b>Enter FirstName Surname Place Country</b></label>
+    <label for="Name"><b>Enter FirstName Surname Place Country Continent</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
     
